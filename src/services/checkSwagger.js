@@ -1,4 +1,4 @@
-import checkSwaggerCli from "swagger-express-evaluator";
+import checkSwaggerCheck from "swagger-express-evaluator";
 
 export function InitService() {
   checkSwaggerCheck();
